@@ -1,2 +1,2 @@
 # Infuse
-## Multiplatform Qualcomm BREW / Zeebo emulator (HLE)
+Multiplatform Qualcomm BREW / Zeebo emulator (HLE)
